@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F700FF&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Aarushi+Shetty;💻+Software+Developer;🚀+Tech+Enthusiast;🌍+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=30&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=✨+Hi,+I'm+Aarushi+Shetty+✨;💻+Passionate+Developer;🌱+Learning+Machine+Learning;🌍+Loves+Open+Source" alt="Typing SVG" />
 </h1>
+
 
 
 ---
