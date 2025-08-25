@@ -20,7 +20,7 @@
   <a href="mailto:aarushishetty2244@gmail.com">
     <img src="https://img.icons8.com/color/96/gmail-new.png" height="65" style="margin:15px"/>
   </a>
-  <a href="https://github.com/Aarushiihetty" target="_blank">
+  <a href="https://github.com/AarushiiShetty" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/96/000000/github.png" height="65" style="margin:15px"/>
   </a>
 </p>
