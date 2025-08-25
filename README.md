@@ -17,10 +17,10 @@
   <a href="https://linkedin.com/in/aarushi-vshetty-ac123103042204" target="_blank">
     <img src="https://img.icons8.com/color/96/linkedin.png" height="65" style="margin:15px"/>
   </a>
-  <a href="mailto:shetty@gmail.com">
+  <a href="mailto:aarushishetty2244@gmail.com">
     <img src="https://img.icons8.com/color/96/gmail-new.png" height="65" style="margin:15px"/>
   </a>
-  <a href="https://github.com/aarushi-shetty" target="_blank">
+  <a href="https://github.com/Aarushiihetty" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/96/000000/github.png" height="65" style="margin:15px"/>
   </a>
 </p>
@@ -79,11 +79,5 @@ Git, GitHub, OpenCV, CMake
 
 ---
 
-## ✍ Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-</p>
-
----
 
 <!-- Proudly created with ❤️ by Aarushi -->
