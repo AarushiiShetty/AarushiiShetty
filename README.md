@@ -1,17 +1,30 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=30&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=✨+Hi,+I'm+Aarushi+Shetty+✨;💻+Passionate+Developer;🌱+Learning+Machine+Learning;🌍+Loves+Open+Source" alt="Typing SVG" />
-</h1>
-
-
+<div align="center">
+  <div style="display:inline-block;padding:18px 22px;border-radius:16px;border:1px solid #e6e6e6;box-shadow:0 18px 40px rgba(0,0,0,.18);background:#0d1117;">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=900&duration=2500&center=true&vCenter=true&width=520&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Aarushi+Shetty;Software+Developer;Tech+Enthusiast;Open+Source+Contributor"
+      alt="Typing Intro" />
+  </div>
+</div>
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Connect With Me  
+
 <p align="center">
-  <a href="https://instagram.com/aarushi._.shetty" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="30"/></a>
-  <a href="https://linkedin.com/in/aarushi-vshetty-ac123103042204" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30"/></a>
-  <a href="mailto:shetty@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="30"/></a>
+  <a href="https://instagram.com/aarushi._.shetty" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/instagram-new.png" height="65" style="margin:15px"/>
+  </a>
+  <a href="https://linkedin.com/in/aarushi-vshetty-ac123103042204" target="_blank">
+    <img src="https://img.icons8.com/color/96/linkedin.png" height="65" style="margin:15px"/>
+  </a>
+  <a href="mailto:shetty@gmail.com">
+    <img src="https://img.icons8.com/color/96/gmail-new.png" height="65" style="margin:15px"/>
+  </a>
+  <a href="https://github.com/aarushi-shetty" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/96/000000/github.png" height="65" style="margin:15px"/>
+  </a>
 </p>
+
 
 ---
 
